@@ -1,4 +1,4 @@
-# Name of the dataset goes here
+# Name of the dataset
 
 Use an introductory paragraph or two describing the dataset. Links to
 where the origin is.
